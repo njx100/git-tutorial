@@ -1,2 +1,3 @@
+console.log("test.js");
 console.log("git tutorial");
-console.log("version3");
+console.log("version 1");
